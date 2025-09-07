@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/haaprojekti/static/css/main.527173fb.css",
+    "main.js": "/haaprojekti/static/js/main.483769fc.js",
+    "index.html": "/haaprojekti/index.html",
+    "main.527173fb.css.map": "/haaprojekti/static/css/main.527173fb.css.map",
+    "main.483769fc.js.map": "/haaprojekti/static/js/main.483769fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527173fb.css",
+    "static/js/main.483769fc.js"
+  ]
+}
